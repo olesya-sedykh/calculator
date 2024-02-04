@@ -1,0 +1,1 @@
+java --module-path "C:\Users\raska\OneDrive\Документы\Лабы по СПРПО (4 семестр)\Лаба 5\openjfx-20_windows-x64_bin-sdk\javafx-sdk-20\lib" --add-modules ALL-MODULE-PATH -jar LR_5.jar
